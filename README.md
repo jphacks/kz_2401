@@ -1,6 +1,6 @@
 # IoT学習管理支援システム
 
-![DEMO](https://youtu.be/dpKObV1tuf4?si=CyRzIh2SdVLrH3XI)
+![DEMO](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/20241028_020601.jpg)(https://youtu.be/dpKObV1tuf4?si=CyRzIh2SdVLrH3XI)
 
 ## 製品概要
 現在、学習における課題として、デジタルデバイスによる通知や誘惑によって集中力が持続しにくいこと、勉強の意義や達成感が感じにくいためにモチベーションが低下しやすいこと、さらには保護者や教師が子供の学習状況を把握しづらいことが挙げられます。
