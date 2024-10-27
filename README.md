@@ -1,7 +1,7 @@
 # IoT学習管理支援システム
 
 [![DEMO](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/20241028_020601.jpg)](https://youtu.be/dpKObV1tuf4?si=CyRzIh2SdVLrH3XI)
-#説明付きのデモ動画YouTubeにあげています↑↑
+# 説明付きのデモ動画YouTubeにあげています↑↑
 
 ## 製品概要
 現在、学習における課題として、デジタルデバイスによる通知や誘惑によって集中力が持続しにくいこと、勉強の意義や達成感が感じにくいためにモチベーションが低下しやすいこと、さらには保護者や教師が子供の学習状況を把握しづらいことが挙げられます。
@@ -84,7 +84,7 @@ USBカメラによる顔認識が作動し、独自の数理モデルに基づ�
 ![ロック解除パス](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/password.jpg)
 #### 7.　ダッシュボードにフィードバックの可視化
 ダッシュボードには日付, 検出時間, 学習時間, 集中度スコアを表形式で表示。ログアウトボタンからログアウトする。
-！[ダッシュボード](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/7E4C8880-7C57-4D77-9DCB-708E660C2F1E.png)
+![ダッシュボード](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/7E4C8880-7C57-4D77-9DCB-708E660C2F1E.png)
 
 
 ## 開発技術
