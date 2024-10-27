@@ -1,6 +1,6 @@
 # IoT学習管理支援システム
 
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2024/07/JPHACKS2024_ogp.jpg)](https://www.youtube.com/watch?v=DZXUkEj-CSI)
+[![ demo]([https://jphacks.com/wp-content/uploads/2024/07/JPHACKS2024_ogp.jpg)](https://www.youtube.com/watch?v=DZXUkEj-CSI](https://youtu.be/dpKObV1tuf4))
 
 ## 製品概要
 現在、学習における課題として、デジタルデバイスによる通知や誘惑によって集中力が持続しにくいこと、勉強の意義や達成感が感じにくいためにモチベーションが低下しやすいこと、さらには保護者や教師が子供の学習状況を把握しづらいことが挙げられます。
