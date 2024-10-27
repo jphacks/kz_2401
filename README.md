@@ -84,7 +84,7 @@ USBカメラによる顔認識が作動し、独自の数理モデルに基づ�
 ![ロック解除パス](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/password.jpg)
 #### 7.　ダッシュボードにフィードバックの可視化
 ダッシュボードには日付, 検出時間, 学習時間, 集中度スコアを表形式で表示。ログアウトボタンからログアウトする。
-[ダッシュボード](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/7E4C8880-7C57-4D77-9DCB-708E660C2F1E.png)
+！[ダッシュボード](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/7E4C8880-7C57-4D77-9DCB-708E660C2F1E.png)
 
 
 ## 開発技術
