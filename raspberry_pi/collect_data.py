@@ -39,6 +39,7 @@ row_buttons = [Button(pin, pull_up=False) for pin in ROWS]
 col_devices = [OutputDevice(pin) for pin in COLS]
 servo = Servo(SERVO_PIN)
 lcd = CharLCD('PCF8574', 0x27)
+switch = Button(SWITCH_PIN, pull_up = True)
 
 # 顔検出変数
 video_capture = cv2.VideoCapture(0)
@@ -167,6 +168,7 @@ def keypad_input_check(target_code):
 # メイン処理
 try:
     user_id = enter_user_id()
+    switch.wait_for_press()
     start_timer_and_face_recognition()
     cv2.destroyAllWindows()
 
