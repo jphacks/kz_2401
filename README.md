@@ -42,15 +42,15 @@ MariaDBを用いて、ダッシュボードとデータベースを連携した�
 ![新規登録](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/touroku.png)
 
 ####　ハード側でユーザーIDを入力
-
+![ユーザーID](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/userID.jpg)
 ####　スマートフォンをロック機構に格納
-
+![]()
 ##### 顔認証が作動
-
+![]()
 #####　ポモドーロタイマーが作動
-
+![ボロモード](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/boromode.jpg)
 ####　ハード側でロック解除パスワードを入力
-
+![ロック解除パス](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/password.jpg)
 ####　ダッシュボードにフィードバックの可視化
 ![ダッシュボード](https://github.com/Shotaro-Akehi/Shotaro-Akehi/blob/main/7E4C8880-7C57-4D77-9DCB-708E660C2F1E.png)
 
@@ -66,34 +66,6 @@ MariaDBを用いて、ダッシュボードとデータベースを連携した�
 * OpenCV - 顔認識と集中度モニタリング
 * MariaDB - データベース
 
-
-- **gpiozero**
-  - **使用モジュール**: `Button`, `OutputDevice`, `Servo`
-  - **概要**: Raspberry PiのGPIOピン制御ライブラリ
-
-- **RPLCD**
-  - **使用モジュール**: `CharLCD`
-  - **概要**: Raspberry PiとLCDディスプレイ接続ライブラリ（I2Cプロトコル対応）
-
-- **face_recognition**
-  - **概要**: 顔検出・顔認識用ライブラリ
-
-- **cv2 (OpenCV)**
-  - **概要**: コンピュータビジョンライブラリ（カメラ映像取得、顔枠描画）
-
-- **random**
-  - **概要**: Python標準ライブラリ
-  - **用途**: 4桁のランダムコード生成
-
-- **sqlite3**
-  - **概要**: SQLiteデータベース操作用Python標準ライブラリ
-
-- **datetime**
-  - **概要**: 日付・時間データ操作用Python標準ライブラリ
-
-- **time**
-  - **使用モジュール**: `sleep`
-  - **概要**: 時間遅延処理
 
 #### デバイス
 * Raspberry Pi 5 - 集中度測定用デバイス
